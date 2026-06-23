@@ -1,0 +1,16 @@
+title: AWS Notes
+description: AWS components and services notes for quick reference.
+remote_theme: just-the-docs/just-the-docs
+
+url: "https://dpk361.github.io"
+baseurl: "/aws-notes"
+
+source: docs/
+
+search_enabled: true
+git push -u origin master
+git push -u origin master
+
+aux_links:
+  GitHub Repository:
+    - https://github.com/dpk361/aws-notes
