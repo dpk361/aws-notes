@@ -8,8 +8,6 @@ baseurl: "/aws-notes"
 source: docs/
 
 search_enabled: true
-git push -u origin master
-git push -u origin master
 
 aux_links:
   GitHub Repository:
